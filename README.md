@@ -17,4 +17,4 @@ File Name | Description
 `Reddit Data Cleanup.ipynb` | Cleaning up Reddit dataset
 `Twitter Data Cleanup.ipynb` | Cleaning up Twitter dataset
 `MHF Data Cleanup.ipynb` | Cleaning up MHF dataset
-`Making Graphs.ipynb` | Making graphs from analysis results
+`Making Graphs.ipynb` | Making graphs from result log files
